@@ -19,6 +19,6 @@ join_shp_with_csv.md (not join_shp_with_csv.Rmd) file to get a tutorial with cod
 
 <h5>join_shp_with_csv.Rmd</h5> -> see above ^^
 
-Any questions email me billy.ehrenberg@ft.com
+<br>Any questions email me billy.ehrenberg@ft.com
 
 Happy coding!
