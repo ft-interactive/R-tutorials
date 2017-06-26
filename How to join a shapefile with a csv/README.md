@@ -5,7 +5,7 @@ The join_csv_with_shapefile.R file will easily convert your files, no questions 
 If you'd like to learn about how it works, open the
 join_shp_with_csv.md (not join_shp_with_csv.Rmd) file to get a tutorial with code examples.
 
-###Here is a list of the files/folders:
+<h3>Here is a list of the files/folders:</h3>
 
 join_csv_with_shapefile.R -> (hopefully) easy to use  annotated script for converting your files
 
