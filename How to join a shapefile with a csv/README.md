@@ -1,4 +1,4 @@
-###Welcome to the how to join a shapefile with a csv tutorial!
+<h2>Welcome to the how to join a shapefile with a csv tutorial!</h2>
 
 The join_csv_with_shapefile.R file will easily convert your files, no questions asked. 
 
