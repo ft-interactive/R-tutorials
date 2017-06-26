@@ -7,7 +7,7 @@ join_shp_with_csv.md (not join_shp_with_csv.Rmd) file to get a tutorial with cod
 
 <h3>Here is a list of the files/folders:</h3>
 
-<h5>join_csv_with_shapefile.R</href='https://github.com/ft-interactive/R-tutorials/blob/master/How%20to%20join%20a%20shapefile%20with%20a%20csv/join_csv_with_shapefile.R' h5> -> (hopefully) easy to use  annotated script for converting your files
+<h5 href='https://github.com/ft-interactive/R-tutorials/blob/master/How%20to%20join%20a%20shapefile%20with%20a%20csv/join_csv_with_shapefile.R'>join_csv_with_shapefile.R</h5> -> (hopefully) easy to use  annotated script for converting your files
 
 <h5>Constit<href=/h5> -> folder containing example shapefiles
 
