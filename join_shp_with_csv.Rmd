@@ -2,7 +2,7 @@
 title: "Joining shapfiles with csvs for use with QGis"
 author: "Billy Ehrenberg"
 date: "26 June 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
