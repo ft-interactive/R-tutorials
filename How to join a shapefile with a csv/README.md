@@ -1,11 +1,11 @@
-Welcome to the how to join a shapefile with a csv tutorial!
+###Welcome to the how to join a shapefile with a csv tutorial!
 
 The join_csv_with_shapefile.R file will easily convert your files, no questions asked. 
 
 If you'd like to learn about how it works, open the
 join_shp_with_csv.md (not join_shp_with_csv.Rmd) file to get a tutorial with code examples.
 
-Here is a list of the files/folders:
+###Here is a list of the files/folders:
 
 join_csv_with_shapefile.R -> (hopefully) easy to use  annotated script for converting your files
 
