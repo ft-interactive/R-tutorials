@@ -9,13 +9,17 @@ join_shp_with_csv.md (not join_shp_with_csv.Rmd) file to get a tutorial with cod
 
 [<h4>join_csv_with_shapefile.R</h4>](./join_csv_with_shapefile.R) -> (hopefully) easy to use  annotated script for converting your files
 
+
 [<h4>join_shp_with_csv.md</h4>](./join_shp_with_csv.md) -> tutorial identical to join_shp_with_csv.Rmd, 
                         but which renders in Github,
                         allowing the inclusion of code examples
 
+
 [<h4>join_shp_with_csv.Rmd</h4>](./join_shp_with_csv.Rmd) -> see above ^^
 
+
 [<h4>ukip_candidate_seats.csv</h4>](./ukip_candidate_seats.csv) -> example csv
+
 
 [<h4>constit</h4>](./constit) -> folder containing example shapefiles
 
