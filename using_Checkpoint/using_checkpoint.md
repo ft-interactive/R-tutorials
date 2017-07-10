@@ -68,10 +68,9 @@ checkpoint(snapshotDate = date_of_proj,
 And voila, we can now run our script as if it was 10 June 2017!
 
 ``` r
-mtcars %>% 
-  ggplot(aes(
-    factor(cyl),mpg
-  ))+
+  ggplot(mtcars,
+         aes(factor(cyl),
+             mpg))+
     geom_point()+
     theme_minimal()
 ```
