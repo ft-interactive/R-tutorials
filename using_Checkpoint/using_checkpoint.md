@@ -71,8 +71,7 @@ And voila, we can now run our script as if it was 10 June 2017!
   ggplot(mtcars,
          aes(factor(cyl),
              mpg))+
-    geom_point()+
-    theme_minimal()
+    geom_point()
 ```
 
-![](using_checkpoint_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
+![](using_checkpoint_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-6-1.png)
