@@ -1,0 +1,24 @@
+---
+title: "readMe"
+author: "Billy Ehrenberg"
+date: "10 July 2017"
+output: html_document
+---
+
+This is a readMe doc for the using checkpoint tutorial. When you write a script, you should add a file like this with the date you wrote the code so others can use checkpoint to load the required R packages in the version they existed at the time you wrote the code.
+
+The date I wrote this tutorial was "2017-07-10"
+
+enjoy!
+
+Here are some useful links for getting to know Checkpoint, and they're more comprehensive than this quick guide I've thrown together.
+<br><h4>A (truly) reproducible R workflow by Timo Grossenbacher</h4>
+Overview -> https://timogrossenbacher.ch/2017/07/a-truly-reproducible-r-workflow/
+<br> Example -> http://srfdata.github.io/2015-06-elections-partystrengths/</br>
+<br><h4>Documentation (Microsoft)</h4>
+https://mran.microsoft.com/web/packages/checkpoint/vignettes/checkpoint.html
+
+for any questions about this tutorial, email me:
+
+billy.ehrenberg@ft.com
+
