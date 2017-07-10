@@ -76,4 +76,4 @@ mtcars %>%
     theme_minimal()
 ```
 
-![](using_checkpoint_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-4-1.png)
+![](using_checkpoint_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
