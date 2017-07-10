@@ -1,5 +1,11 @@
 <h2>Welcome to the how to join a shapefile with a csv tutorial!</h2>
 
+Date for packages: "26-06-2017"
+
+Run the run_checkpoint file first to make sure the versions of the packages you use are the same I used for this tutorial.
+
+Then:
+
 The join_csv_with_shapefile.R file will easily convert your files, no questions asked. 
 
 If you'd like to learn about how it works, open the
